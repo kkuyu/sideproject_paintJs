@@ -22,13 +22,10 @@ body {
 	margin-top: 80px;
 }
 
-/* .controls .controls__range output {
-	border:1px solid #d7dbdd;
-	color:#333;
-	font-size:12px;
-	padding:.4em .6em;
-	border-radius:3px; 
-}*/
+.controls .controls__range {
+	margin: 0 auto;
+	width: 300px;
+}
 
 .controls .controls__btns {
 	margin-top: 30px;
